@@ -1,0 +1,15 @@
+---
+title: "Blogging with Quarto and Jupyter"
+author: "Sebas Eliëns"
+date: "2023-12-08"
+categories: [blog,quarto,jupyter]
+draft: true
+---
+
+I love the meta of bloggers writing about their blogging setup.  
+
+![The default Quarto blog post image](image.jpg)
+
+
+
+

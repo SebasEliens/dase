@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/SebasEliens
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/sebaseliens
+---
+
+Hi! This is the blog and portfolio for DASE data science. That is me, Sebas Eliëns, as an independent data scientist commited to use the power of data, science and code for good. If you need a data scientist on any project that improves sustainability, enhances justice, or otherwise works towards a better world, please reach out. 🏳️‍🌈 🌍 🦋
+
