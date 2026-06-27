@@ -12,6 +12,8 @@ about:
       href: https://linkedin.com/in/sebaseliens
 ---
 
-I'm Sebas Eliëns, an independent data scientist based in the Netherlands. My background is in physics, and I now work on data and analysis projects — mostly in areas related to sustainability and social issues.
+I'm Sebas Eliëns, an independent data scientist based in the Netherlands. My background is in physics, and I've been working in data since [year].
 
-This site is where I share work, notes, and the occasional longer piece. If you have a project that could use a data scientist, feel free to get in touch.
+I focus on projects where careful analysis can make a difference — mostly around sustainability, inequality, and public data. I care about doing work that is honest, reproducible, and useful.
+
+Outside of work: [something personal here].

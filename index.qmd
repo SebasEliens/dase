@@ -1,43 +1,33 @@
 ---
-title: "DASE data science"
-listing:
-  id: recent-posts
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+title: "Sebas Eliëns"
+subtitle: "Independent data scientist"
 page-layout: full
 title-block-banner: true
 ---
 
-I'm Sebas Eliëns, an independent data scientist with a background in physics. I work on projects at the intersection of data, sustainability, and social issues — helping organisations make sense of their data and communicate it clearly.
+I help organisations work with data — from analysis and modelling to visualisation and reporting. My background is in physics; I now work mostly with clients in the non-profit, research, and public sector.
 
 ---
 
-## Recent posts
+## Services
 
-::: {#recent-posts}
-:::
+**Data analysis & modelling**
+Exploratory analysis, statistical modelling, and reproducible research pipelines.
+
+**Visualisation & reporting**
+Clear, honest charts and reports that communicate findings to non-technical audiences.
+
+**Open data & sustainability**
+Projects that use publicly available data to shed light on inequality, ecology, or climate.
 
 ---
 
-:::: {.columns}
+## Tools
 
-::: {.column width="33%"}
-### Work
-I take on freelance projects in data analysis, visualisation, and reporting. Clients tend to be in the non-profit, research, or public sector.
-:::
+Python · R · SQL · Quarto · Git
 
-::: {.column width="33%"}
-### Tools
-Python, R, Quarto, SQL. I favour reproducible workflows and plain text formats.
-:::
+---
 
-::: {.column width="33%"}
-### Contact
-Find me on [GitHub](https://github.com/SebasEliens) or [LinkedIn](https://linkedin.com/in/sebaseliens).
-:::
+## Get in touch
 
-::::
+[GitHub](https://github.com/SebasEliens) · [LinkedIn](https://linkedin.com/in/sebaseliens)
