@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>News – DASE data science</title>
+<title>DASE data science</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -44,7 +44,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d42e3a450557161d5337326f150af9d1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c91e717a3d2047503c4109d3ed380c2d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -75,20 +75,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -167,7 +167,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">News</h1>
+      <h1 class="title">DASE data science</h1>
                       </div>
   </div>
     
@@ -185,7 +185,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="YmxvZw==">blog <span class="quarto-category-count">(1)</span></div><div class="category" data-category="anVweXRlcg==">jupyter <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cXVhcnRv">quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dmFsdWVz">values <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -193,16 +193,104 @@ window.Quarto = {
 
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<p>I’m Sebas Eliëns, an independent data scientist with a background in physics. I work on projects at the intersection of data, sustainability, and social issues — helping organisations make sense of their data and communicate it clearly.</p>
+<hr>
+<section id="recent-posts" class="level2">
+<h2 class="anchored" data-anchor-id="recent-posts">Recent posts</h2>
+<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="YmxvZyUyQ3F1YXJ0byUyQ2p1cHl0ZXI=" data-listing-date-sort="1701993600000" data-listing-file-modified-sort="1782571065731" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="219">
+<div class="thumbnail"><a href="./posts/2_quarto/index.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' src="posts/2_quarto/image.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/2_quarto/index.html" class="no-external">Blogging with Quarto and Jupyter</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('YmxvZw=='); return false;">blog</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('cXVhcnRv'); return false;">quarto</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('anVweXRlcg=='); return false;">jupyter</div>
 
 </div>
+<div class="delink listing-description"><a href="./posts/2_quarto/index.html" class="no-external">
+I enjoy the meta of bloggers writing about their blogging setup. So here’s mine.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/2_quarto/index.html" class="no-external">
+<div class="listing-date">
+Dec 8, 2023
+</div>
+<div class="listing-author">
+Sebas Eliëns
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="dmFsdWVz" data-listing-date-sort="1701734400000" data-listing-file-modified-sort="1782571065730" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="291">
+<div class="thumbnail"><a href="./posts/1_values/index.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' src="posts/1_values/image.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/1_values/index.html" class="no-external">What I care about</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('dmFsdWVz'); return false;">values</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/1_values/index.html" class="no-external">
+What drives the work I choose to do? I’ve been a physicist, then became a data scientist, and along the way I’ve developed a fairly clear sense of what I want to spend my…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/1_values/index.html" class="no-external">
+<div class="listing-date">
+Dec 5, 2023
+</div>
+<div class="listing-author">
+Sebas Eliëns
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</div>
+<hr>
+<div class="columns">
+<div class="column" style="width:33%;">
+<section id="work" class="level3">
+<h3 class="anchored" data-anchor-id="work">Work</h3>
+<p>I take on freelance projects in data analysis, visualisation, and reporting. Clients tend to be in the non-profit, research, or public sector.</p>
+</section>
+</div><div class="column" style="width:33%;">
+<section id="tools" class="level3">
+<h3 class="anchored" data-anchor-id="tools">Tools</h3>
+<p>Python, R, Quarto, SQL. I favour reproducible workflows and plain text formats.</p>
+</section>
+</div><div class="column" style="width:33%;">
+<section id="contact" class="level3">
+<h3 class="anchored" data-anchor-id="contact">Contact</h3>
+<p>Find me on <a href="https://github.com/SebasEliens">GitHub</a> or <a href="https://linkedin.com/in/sebaseliens">LinkedIn</a>.</p>
+</section>
+</div>
+</div>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -1,6 +1,9 @@
 [
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/posts/2_quarto/index.html",
+      "/posts/1_values/index.html"
+    ]
   }
 ]
