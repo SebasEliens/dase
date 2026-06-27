@@ -34,7 +34,7 @@ Statistical analysis, reproducible pipelines, and clear reporting for non-techni
 
 ## Tools
 
-Python · R · SQL · Quarto · Git
+Python · R · SQL · Azure · Docker · Kubernetes · Git
 
 ---
 
