@@ -10,7 +10,7 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: flatly
     css: styles.css
 
 execute:
