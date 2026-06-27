@@ -1,5 +1,5 @@
 ---
-title: "Sebas Eliëns"
+title: "DASE data science"
 subtitle: "Independent data scientist & AI engineer"
 page-layout: full
 title-block-banner: true
