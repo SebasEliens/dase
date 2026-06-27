@@ -4,9 +4,6 @@ project:
 website:
   title: "DASE data science"
   navbar:
-    left:
-      - text: "Home"
-        href: index.qmd
     right:
       - text: "About"
         href: about.qmd

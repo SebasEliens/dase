@@ -12,7 +12,7 @@ about:
       href: https://linkedin.com/in/sebaseliens
 ---
 
-I'm Sebas Eliëns, an independent data scientist and AI engineer based in the Netherlands. My background is in physics, and I've been working in data since [year].
+I'm Sebas Eliëns, an independent data scientist and AI engineer based in the Netherlands. My background is in physics, and I've been in AI/ML engineering and data science since 2020.
 
 My main focus recently has been AI engineering at Alef Education, where I work on an agentic AI assistant for teachers. I've also spent a significant part of my career in educational assessment — building computerised adaptive testing systems and advising on psychometrics, mainly using item response theory.
 
