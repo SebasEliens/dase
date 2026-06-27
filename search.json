@@ -4,14 +4,21 @@
     "href": "index.html",
     "title": "Sebas Eliëns",
     "section": "",
-    "text": "I help organisations work with data — from analysis and modelling to visualisation and reporting. My background is in physics; I now work mostly with clients in the non-profit, research, and public sector."
+    "text": "I help organisations work with data — from analysis and modelling to AI engineering. My background is in physics; I now work with clients in education, research, and the public sector."
+  },
+  {
+    "objectID": "index.html#recent-work",
+    "href": "index.html#recent-work",
+    "title": "Sebas Eliëns",
+    "section": "Recent work",
+    "text": "Recent work\nAI engineer — Alef Education Building an agentic AI teacher supporting assistant. This involves designing and implementing multi-agent systems that support teachers in the classroom, working at the intersection of large language models, education, and practical deployment.\nComputerised adaptive testing — assessments Designing and building CAT systems and advising on psychometrics, primarily using item response theory. Work spans system architecture, model selection, and translating technical findings for non-specialist stakeholders."
   },
   {
     "objectID": "index.html#services",
     "href": "index.html#services",
     "title": "Sebas Eliëns",
     "section": "Services",
-    "text": "Services\nData analysis & modelling Exploratory analysis, statistical modelling, and reproducible research pipelines.\nVisualisation & reporting Clear, honest charts and reports that communicate findings to non-technical audiences.\nOpen data & sustainability Projects that use publicly available data to shed light on inequality, ecology, or climate."
+    "text": "Services\nAgentic AI & LLM engineering Designing and building AI systems with practical, responsible applications — particularly in education and research contexts.\nPsychometrics & adaptive testing CAT system design, item response theory modelling, and assessment analytics.\nData analysis & visualisation Statistical analysis, reproducible pipelines, and clear reporting for non-technical audiences."
   },
   {
     "objectID": "index.html#tools",
@@ -39,6 +46,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m Sebas Eliëns, an independent data scientist based in the Netherlands. My background is in physics, and I’ve been working in data since [year].\nI focus on projects where careful analysis can make a difference — mostly around sustainability, inequality, and public data. I care about doing work that is honest, reproducible, and useful.\nOutside of work: [something personal here]."
+    "text": "I’m Sebas Eliëns, an independent data scientist and AI engineer based in the Netherlands. My background is in physics, and I’ve been working in data since [year].\nMy main focus recently has been AI engineering at Alef Education, where I work on an agentic AI assistant for teachers. I’ve also spent a significant part of my career in educational assessment — building computerised adaptive testing systems and advising on psychometrics, mainly using item response theory.\nI care about work that is honest, reproducible, and useful.\nOutside of work: [something personal here]."
   }
 ]
