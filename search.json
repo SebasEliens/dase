@@ -2,23 +2,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DASE data science",
+    "title": "Sebas Eliëns",
     "section": "",
-    "text": "I’m Sebas Eliëns, an independent data scientist with a background in physics. I work on projects at the intersection of data, sustainability, and social issues — helping organisations make sense of their data and communicate it clearly."
+    "text": "I help organisations work with data — from analysis and modelling to visualisation and reporting. My background is in physics; I now work mostly with clients in the non-profit, research, and public sector."
   },
   {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "DASE data science",
-    "section": "Recent posts",
-    "text": "Recent posts\n\n\n\n\n\n\n\n\n\n\nBlogging with Quarto and Jupyter\n\n\n\nblog\n\nquarto\n\njupyter\n\n\n\n\n\n\n\n\n\nDec 8, 2023\n\n\nSebas Eliëns\n\n\n\n\n\n\n\n\n\n\n\n\nWhat I care about\n\n\n\nvalues\n\n\n\n\n\n\n\n\n\nDec 5, 2023\n\n\nSebas Eliëns\n\n\n\n\n\nNo matching items\n\n\n\n\n\nWork\nI take on freelance projects in data analysis, visualisation, and reporting. Clients tend to be in the non-profit, research, or public sector.\n\n\n\nTools\nPython, R, Quarto, SQL. I favour reproducible workflows and plain text formats.\n\n\n\nContact\nFind me on GitHub or LinkedIn."
+    "objectID": "index.html#services",
+    "href": "index.html#services",
+    "title": "Sebas Eliëns",
+    "section": "Services",
+    "text": "Services\nData analysis & modelling Exploratory analysis, statistical modelling, and reproducible research pipelines.\nVisualisation & reporting Clear, honest charts and reports that communicate findings to non-technical audiences.\nOpen data & sustainability Projects that use publicly available data to shed light on inequality, ecology, or climate."
   },
   {
-    "objectID": "posts/2_quarto/index.html",
-    "href": "posts/2_quarto/index.html",
-    "title": "Blogging with Quarto and Jupyter",
-    "section": "",
-    "text": "I enjoy the meta of bloggers writing about their blogging setup. So here’s mine.\n\n\nWhy Quarto\nQuarto is a publishing system built on top of Pandoc. It renders Markdown, R Markdown, and Jupyter notebooks into websites, PDFs, or slide decks. For a data scientist, that means you can write a post that includes real code, real output, and real figures — all in one document, with no copy-pasting.\nThe previous generation of this was R Markdown, which worked well but was R-only. Quarto is language-agnostic: Python, R, Julia, and Observable all work.\n\n\nJupyter notebooks as posts\nOne thing I particularly like: you can use .ipynb files directly as posts. Write your analysis in a notebook, add a YAML header, and Quarto publishes it. No conversion step, no reformatting.\nThis matters because it keeps the source of truth in one place. The notebook is the post.\n\n\nThe setup\nThis site is built with:\n\nQuarto for rendering\nGitHub Actions for automated deployment on every push\nGitHub Pages for hosting\n\nThe workflow is simple: write a post, push to main, and it goes live. The whole pipeline is visible in the repo.\n\n\nWhat I’d change\nThe main friction so far is freezing: Quarto caches executed outputs so you don’t re-run expensive code on every build. That’s good in principle but occasionally produces stale outputs if you’re not careful. Something to watch."
+    "objectID": "index.html#tools",
+    "href": "index.html#tools",
+    "title": "Sebas Eliëns",
+    "section": "Tools",
+    "text": "Tools\nPython · R · SQL · Quarto · Git"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Sebas Eliëns",
+    "section": "Get in touch",
+    "text": "Get in touch\nGitHub · LinkedIn"
   },
   {
     "objectID": "posts/1_values/index.html",
@@ -32,6 +39,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m Sebas Eliëns, an independent data scientist based in the Netherlands. My background is in physics, and I now work on data and analysis projects — mostly in areas related to sustainability and social issues.\nThis site is where I share work, notes, and the occasional longer piece. If you have a project that could use a data scientist, feel free to get in touch."
+    "text": "I’m Sebas Eliëns, an independent data scientist based in the Netherlands. My background is in physics, and I’ve been working in data since [year].\nI focus on projects where careful analysis can make a difference — mostly around sustainability, inequality, and public data. I care about doing work that is honest, reproducible, and useful.\nOutside of work: [something personal here]."
   }
 ]
