@@ -22,7 +22,7 @@ Designing and building CAT systems and advising on psychometrics, primarily usin
 ## Services
 
 **Agentic AI & LLM engineering**
-Designing and building AI systems with practical, responsible applications — particularly in education and research contexts.
+Designing and building production AI systems for practical, responsible applications — particularly in education and research contexts. MLOps deployment pipelines and evaluation best practices.
 
 **Psychometrics & adaptive testing**
 CAT system design, item response theory modelling, and assessment analytics.
