@@ -2,14 +2,35 @@
 title: "Blogging with Quarto and Jupyter"
 author: "Sebas Eliëns"
 date: "2023-12-08"
-categories: [blog,quarto,jupyter]
-draft: true
+categories: [blog, quarto, jupyter]
 ---
 
-I love the meta of bloggers writing about their blogging setup.  
+I enjoy the meta of bloggers writing about their blogging setup. So here's mine.
 
-![The default Quarto blog post image](image.jpg)
+![](image.jpg)
 
+### Why Quarto
 
+Quarto is a publishing system built on top of Pandoc. It renders Markdown, R Markdown, and Jupyter notebooks into websites, PDFs, or slide decks. For a data scientist, that means you can write a post that includes real code, real output, and real figures — all in one document, with no copy-pasting.
 
+The previous generation of this was R Markdown, which worked well but was R-only. Quarto is language-agnostic: Python, R, Julia, and Observable all work.
 
+### Jupyter notebooks as posts
+
+One thing I particularly like: you can use `.ipynb` files directly as posts. Write your analysis in a notebook, add a YAML header, and Quarto publishes it. No conversion step, no reformatting.
+
+This matters because it keeps the source of truth in one place. The notebook is the post.
+
+### The setup
+
+This site is built with:
+
+- **Quarto** for rendering
+- **GitHub Actions** for automated deployment on every push
+- **GitHub Pages** for hosting
+
+The workflow is simple: write a post, push to `main`, and it goes live. The whole pipeline is [visible in the repo](https://github.com/SebasEliens/dase).
+
+### What I'd change
+
+The main friction so far is freezing: Quarto caches executed outputs so you don't re-run expensive code on every build. That's good in principle but occasionally produces stale outputs if you're not careful. Something to watch.

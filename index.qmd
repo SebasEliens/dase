@@ -1,6 +1,7 @@
 ---
-title: "News"
+title: "DASE data science"
 listing:
+  id: recent-posts
   contents: posts
   sort: "date desc"
   type: default
@@ -11,3 +12,32 @@ page-layout: full
 title-block-banner: true
 ---
 
+I'm Sebas Eliëns, an independent data scientist with a background in physics. I work on projects at the intersection of data, sustainability, and social issues — helping organisations make sense of their data and communicate it clearly.
+
+---
+
+## Recent posts
+
+::: {#recent-posts}
+:::
+
+---
+
+:::: {.columns}
+
+::: {.column width="33%"}
+### Work
+I take on freelance projects in data analysis, visualisation, and reporting. Clients tend to be in the non-profit, research, or public sector.
+:::
+
+::: {.column width="33%"}
+### Tools
+Python, R, Quarto, SQL. I favour reproducible workflows and plain text formats.
+:::
+
+::: {.column width="33%"}
+### Contact
+Find me on [GitHub](https://github.com/SebasEliens) or [LinkedIn](https://linkedin.com/in/sebaseliens).
+:::
+
+::::
