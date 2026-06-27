@@ -1,24 +1,34 @@
 ---
 title: "Sebas Eliëns"
-subtitle: "Independent data scientist"
+subtitle: "Independent data scientist & AI engineer"
 page-layout: full
 title-block-banner: true
 ---
 
-I help organisations work with data — from analysis and modelling to visualisation and reporting. My background is in physics; I now work mostly with clients in the non-profit, research, and public sector.
+I help organisations work with data — from analysis and modelling to AI engineering. My background is in physics; I now work with clients in education, research, and the public sector.
+
+---
+
+## Recent work
+
+**AI engineer — Alef Education**
+Building an agentic AI teacher supporting assistant. This involves designing and implementing multi-agent systems that support teachers in the classroom, working at the intersection of large language models, education, and practical deployment.
+
+**Computerised adaptive testing — assessments**
+Designing and building CAT systems and advising on psychometrics, primarily using item response theory. Work spans system architecture, model selection, and translating technical findings for non-specialist stakeholders.
 
 ---
 
 ## Services
 
-**Data analysis & modelling**
-Exploratory analysis, statistical modelling, and reproducible research pipelines.
+**Agentic AI & LLM engineering**
+Designing and building AI systems with practical, responsible applications — particularly in education and research contexts.
 
-**Visualisation & reporting**
-Clear, honest charts and reports that communicate findings to non-technical audiences.
+**Psychometrics & adaptive testing**
+CAT system design, item response theory modelling, and assessment analytics.
 
-**Open data & sustainability**
-Projects that use publicly available data to shed light on inequality, ecology, or climate.
+**Data analysis & visualisation**
+Statistical analysis, reproducible pipelines, and clear reporting for non-technical audiences.
 
 ---
 
