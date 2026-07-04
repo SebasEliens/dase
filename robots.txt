@@ -1,1 +1,1 @@
-Sitemap: https://SebasEliens.github.io/dase/sitemap.xml
+Sitemap: https://www.dasedatascience.nl/sitemap.xml
